@@ -1,0 +1,22 @@
+{
+  "name": "box-kit",
+  "version": "1.0.0",
+  "description": "some css",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humreske/box-kit.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "humreske",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humreske/box-kit/issues"
+  },
+  "homepage": "https://github.com/humreske/box-kit#readme"
+}
